@@ -1,6 +1,6 @@
 # confusionBootstrap
   confusion is a simple website made with Bootstrap 4.
-  This website has made with the help of Coursera.
+  This website has made by following the Full Stack Web Development course on Coursera.
   It has included Basic HTML, CSS, Sass, Less, JQuery as well as javascript and Bootstrap functionality.
   It has also covered task runners like grunt and gulp.
   
